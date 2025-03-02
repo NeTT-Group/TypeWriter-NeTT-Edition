@@ -6,4 +6,4 @@ A professional word processor with features such as AI text generation, voice di
 
 ## Copyright
 
-© 2024 NeTT Group. All rights reserved.
+© 1997-2025 NeTT Systems. All rights reserved.
